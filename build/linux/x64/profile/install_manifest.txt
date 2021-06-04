@@ -1,0 +1,10 @@
+/home/serius/Documents/flutter/udemyCourse/stf_stl/quoteapp/build/linux/x64/profile/bundle/quoteapp
+/home/serius/Documents/flutter/udemyCourse/stf_stl/quoteapp/build/linux/x64/profile/bundle/data/icudtl.dat
+/home/serius/Documents/flutter/udemyCourse/stf_stl/quoteapp/build/linux/x64/profile/bundle/lib/libflutter_linux_gtk.so
+/home/serius/Documents/flutter/udemyCourse/stf_stl/quoteapp/build/linux/x64/profile/bundle/data/flutter_assets/AssetManifest.json
+/home/serius/Documents/flutter/udemyCourse/stf_stl/quoteapp/build/linux/x64/profile/bundle/data/flutter_assets/FontManifest.json
+/home/serius/Documents/flutter/udemyCourse/stf_stl/quoteapp/build/linux/x64/profile/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/serius/Documents/flutter/udemyCourse/stf_stl/quoteapp/build/linux/x64/profile/bundle/data/flutter_assets/version.json
+/home/serius/Documents/flutter/udemyCourse/stf_stl/quoteapp/build/linux/x64/profile/bundle/data/flutter_assets/NOTICES
+/home/serius/Documents/flutter/udemyCourse/stf_stl/quoteapp/build/linux/x64/profile/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/serius/Documents/flutter/udemyCourse/stf_stl/quoteapp/build/linux/x64/profile/bundle/lib/libapp.so
